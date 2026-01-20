@@ -1,0 +1,1217 @@
+[
+  {
+   "Marca": "ABS",
+   "CN": 473066,
+   "Nombre": "Anatómico",
+   "Talla": 0,
+   "Periodo": "Dia",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 469205,
+   "Nombre": "Anatómico",
+   "Talla": 0,
+   "Periodo": "Noche",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 469247,
+   "Nombre": "Anatómico",
+   "Talla": 0,
+   "Periodo": "Supernoche",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 492132,
+   "Nombre": "Elástico",
+   "Talla": 3,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 492124,
+   "Nombre": "Elástico",
+   "Talla": 4,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 486639,
+   "Nombre": "Elástico",
+   "Talla": 2,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 469288,
+   "Nombre": "Elástico",
+   "Talla": 3,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 494005,
+   "Nombre": "Elástico",
+   "Talla": 4,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 470138,
+   "Nombre": "Elástico",
+   "Talla": 5,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 483362,
+   "Nombre": "Elástico",
+   "Talla": 3,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 469320,
+   "Nombre": "Elástico",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 492116,
+   "Nombre": "Elástico",
+   "Talla": 5,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 462937,
+   "Nombre": "Insert",
+   "Talla": 0,
+   "Periodo": "Dia",
+   "Tipo": "Rectangular",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 484881,
+   "Nombre": "Nude",
+   "Talla": 2,
+   "Periodo": "Dia",
+   "Tipo": "Nude",
+   "Uds": 60
+  },
+  {
+   "Marca": "ABS",
+   "CN": 484899,
+   "Nombre": "Nude",
+   "Talla": 3,
+   "Periodo": "Dia",
+   "Tipo": "Nude",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 483404,
+   "Nombre": "Nude",
+   "Talla": 4,
+   "Periodo": "Dia",
+   "Tipo": "Nude",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 483164,
+   "Nombre": "Nude",
+   "Talla": 2,
+   "Periodo": "Noche",
+   "Tipo": "Nude",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 483321,
+   "Nombre": "Nude",
+   "Talla": 3,
+   "Periodo": "Noche",
+   "Tipo": "Nude",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 484972,
+   "Nombre": "Nude",
+   "Talla": 4,
+   "Periodo": "Noche",
+   "Tipo": "Nude",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 470146,
+   "Nombre": "Nude",
+   "Talla": 2,
+   "Periodo": "Supernoche",
+   "Tipo": "Nude",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 485011,
+   "Nombre": "Nude",
+   "Talla": 3,
+   "Periodo": "Supernoche",
+   "Tipo": "Nude",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 485029,
+   "Nombre": "Nude",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Nude",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 476275,
+   "Nombre": "Pants",
+   "Talla": 2,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 60
+  },
+  {
+   "Marca": "ABS",
+   "CN": 478487,
+   "Nombre": "Pants",
+   "Talla": 3,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 476283,
+   "Nombre": "Pants",
+   "Talla": 4,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 473108,
+   "Nombre": "Pants",
+   "Talla": 5,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 463349,
+   "Nombre": "Pants",
+   "Talla": 2,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 60
+  },
+  {
+   "Marca": "ABS",
+   "CN": 469452,
+   "Nombre": "Pants",
+   "Talla": 3,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 476267,
+   "Nombre": "Pants",
+   "Talla": 4,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 470112,
+   "Nombre": "Pants",
+   "Talla": 5,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 463331,
+   "Nombre": "Pants",
+   "Talla": 2,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 60
+  },
+  {
+   "Marca": "ABS",
+   "CN": 476242,
+   "Nombre": "Pants",
+   "Talla": 3,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 469460,
+   "Nombre": "Pants",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 470120,
+   "Nombre": "Pants",
+   "Talla": 5,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "ABS",
+   "CN": 482117,
+   "Nombre": "Pants",
+   "Talla": 6,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "iD Expert",
+   "CN": 488619,
+   "Nombre": "Elástico",
+   "Talla": 4,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "iD Expert",
+   "CN": 477331,
+   "Nombre": "Elástico",
+   "Talla": 2,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "iD Expert",
+   "CN": 483008,
+   "Nombre": "Elástico",
+   "Talla": 3,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "iD Expert",
+   "CN": 477372,
+   "Nombre": "Elástico",
+   "Talla": 3,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "iD Expert",
+   "CN": 481788,
+   "Nombre": "Elástico",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "iD Expert",
+   "CN": 483040,
+   "Nombre": "Elástico",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "iD Expert",
+   "CN": 476507,
+   "Nombre": "Form",
+   "Talla": 0,
+   "Periodo": "Dia",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "iD Expert",
+   "CN": 476523,
+   "Nombre": "Form",
+   "Talla": 0,
+   "Periodo": "Noche",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "iD Expert",
+   "CN": 477356,
+   "Nombre": "Form",
+   "Talla": 0,
+   "Periodo": "Supernoche",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "iD Expert",
+   "CN": 476481,
+   "Nombre": "Rectangular",
+   "Talla": 0,
+   "Periodo": "Dia",
+   "Tipo": "Rectangular",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 460261,
+   "Nombre": "Anatómico",
+   "Talla": 0,
+   "Periodo": "Dia",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 460428,
+   "Nombre": "Anatómico",
+   "Talla": 0,
+   "Periodo": "Noche",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 460295,
+   "Nombre": "Anatómico",
+   "Talla": 0,
+   "Periodo": "Supernoche",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 400084,
+   "Nombre": "Anatómico Primeros estados",
+   "Talla": 0,
+   "Periodo": "Dia",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 497651,
+   "Nombre": "Elástico",
+   "Talla": 1,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 471409,
+   "Nombre": "Elástico",
+   "Talla": 2,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 20
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 478388,
+   "Nombre": "Elástico",
+   "Talla": 3,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 480087,
+   "Nombre": "Elástico",
+   "Talla": 4,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 471458,
+   "Nombre": "Elástico",
+   "Talla": 2,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 461681,
+   "Nombre": "Elástico",
+   "Talla": 3,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 489369,
+   "Nombre": "Elástico",
+   "Talla": 4,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 480954,
+   "Nombre": "Elástico",
+   "Talla": 5,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 488486,
+   "Nombre": "Elástico",
+   "Talla": 3,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 461715,
+   "Nombre": "Elástico",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 480970,
+   "Nombre": "Elástico",
+   "Talla": 5,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 471425,
+   "Nombre": "Pant",
+   "Talla": 2,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 478321,
+   "Nombre": "Pant",
+   "Talla": 3,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 471243,
+   "Nombre": "Pant",
+   "Talla": 4,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 493957,
+   "Nombre": "Pant",
+   "Talla": 5,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 471276,
+   "Nombre": "Pant",
+   "Talla": 2,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 471482,
+   "Nombre": "Pant",
+   "Talla": 3,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 471516,
+   "Nombre": "Pant",
+   "Talla": 4,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 478404,
+   "Nombre": "Pant",
+   "Talla": 5,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 493965,
+   "Nombre": "Pant",
+   "Talla": 2,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 471540,
+   "Nombre": "Pant",
+   "Talla": 3,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 471573,
+   "Nombre": "Pant",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 472084,
+   "Nombre": "Pant",
+   "Talla": 5,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 460451,
+   "Nombre": "Rectangular",
+   "Talla": 0,
+   "Periodo": "Dia",
+   "Tipo": "Rectangular",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 491092,
+   "Nombre": "Rectangular Confort",
+   "Talla": 0,
+   "Periodo": "Dia",
+   "Tipo": "Rectangular",
+   "Uds": 80
+  },
+  {
+   "Marca": "IncoPack",
+   "CN": 471615,
+   "Nombre": "Rectangular Ultra",
+   "Talla": 0,
+   "Periodo": "Supernoche",
+   "Tipo": "Rectangular",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 482471,
+   "Nombre": "Pants",
+   "Talla": 1,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 496141,
+   "Nombre": "Pants",
+   "Talla": 2,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 498824,
+   "Nombre": "Pants",
+   "Talla": 3,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 498832,
+   "Nombre": "Pants",
+   "Talla": 4,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 486316,
+   "Nombre": "Pants",
+   "Talla": 5,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 482497,
+   "Nombre": "Pants",
+   "Talla": 1,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 496158,
+   "Nombre": "Pants",
+   "Talla": 2,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 498840,
+   "Nombre": "Pants",
+   "Talla": 3,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 493015,
+   "Nombre": "Pants",
+   "Talla": 4,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 486324,
+   "Nombre": "Pants",
+   "Talla": 5,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 496166,
+   "Nombre": "Pants",
+   "Talla": 2,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 498873,
+   "Nombre": "Pants",
+   "Talla": 3,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 493031,
+   "Nombre": "Pants",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 486332,
+   "Nombre": "Pants",
+   "Talla": 5,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 482471,
+   "Nombre": "Sense",
+   "Talla": 3,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 488619,
+   "Nombre": "Sense",
+   "Talla": 4,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 488619,
+   "Nombre": "Sense",
+   "Talla": 5,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 483008,
+   "Nombre": "Sense",
+   "Talla": 3,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 481788,
+   "Nombre": "Sense",
+   "Talla": 4,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 486324,
+   "Nombre": "Sense",
+   "Talla": 5,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 477372,
+   "Nombre": "Sense",
+   "Talla": 3,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 483040,
+   "Nombre": "Sense",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 486332,
+   "Nombre": "Sense",
+   "Talla": 5,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 472241,
+   "Nombre": "Slip",
+   "Talla": 1,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 487249,
+   "Nombre": "Slip",
+   "Talla": 2,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 497735,
+   "Nombre": "Slip",
+   "Talla": 3,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 497743,
+   "Nombre": "Slip",
+   "Talla": 4,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 491920,
+   "Nombre": "Slip",
+   "Talla": 5,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 482505,
+   "Nombre": "Slip",
+   "Talla": 1,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 477331,
+   "Nombre": "Slip",
+   "Talla": 2,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 498857,
+   "Nombre": "Slip",
+   "Talla": 3,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 498865,
+   "Nombre": "Slip",
+   "Talla": 4,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 486290,
+   "Nombre": "Slip",
+   "Talla": 5,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 497776,
+   "Nombre": "Slip",
+   "Talla": 2,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 498881,
+   "Nombre": "Slip",
+   "Talla": 3,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 498899,
+   "Nombre": "Slip",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "Serenity",
+   "CN": 486308,
+   "Nombre": "Slip",
+   "Talla": 5,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 459966,
+   "Nombre": "Anatómico",
+   "Talla": 0,
+   "Periodo": "Dia",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 464537,
+   "Nombre": "Anatómico",
+   "Talla": 0,
+   "Periodo": "Noche",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 462895,
+   "Nombre": "Anatómico",
+   "Talla": 0,
+   "Periodo": "Supernoche",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 496778,
+   "Nombre": "Anatómico Primeros estados",
+   "Talla": 0,
+   "Periodo": "Dia",
+   "Tipo": "Anatómico",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 488866,
+   "Nombre": "Flex ProSkin Anat. Cinturón",
+   "Talla": 3,
+   "Periodo": "Noche",
+   "Tipo": "Anat. Cinturón",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 493080,
+   "Nombre": "Flex ProSkin Anat. Cinturón",
+   "Talla": 4,
+   "Periodo": "Noche",
+   "Tipo": "Anat. Cinturón",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 496034,
+   "Nombre": "Flex ProSkin Anat. Cinturón",
+   "Talla": 3,
+   "Periodo": "Supernoche",
+   "Tipo": "Anat. Cinturón",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 489294,
+   "Nombre": "Flex ProSkin Anat. Cinturón",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Anat. Cinturón",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 463984,
+   "Nombre": "Orlys ProSkin Pants",
+   "Talla": 2,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 40
+  },
+  {
+   "Marca": "TENA",
+   "CN": 464008,
+   "Nombre": "Orlys ProSkin Pants",
+   "Talla": 3,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 494385,
+   "Nombre": "Orlys ProSkin Pants",
+   "Talla": 4,
+   "Periodo": "Dia",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 464016,
+   "Nombre": "Orlys ProSkin Pants",
+   "Talla": 2,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 40
+  },
+  {
+   "Marca": "TENA",
+   "CN": 494401,
+   "Nombre": "Orlys ProSkin Pants",
+   "Talla": 3,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 494419,
+   "Nombre": "Orlys ProSkin Pants",
+   "Talla": 4,
+   "Periodo": "Noche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 491340,
+   "Nombre": "Orlys ProSkin Pants",
+   "Talla": 2,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 40
+  },
+  {
+   "Marca": "TENA",
+   "CN": 464065,
+   "Nombre": "Orlys ProSkin Pants",
+   "Talla": 3,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 494435,
+   "Nombre": "Orlys ProSkin Pants",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Pant",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 464875,
+   "Nombre": "ProSkin Elástico",
+   "Talla": 2,
+   "Periodo": "Dia",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 464883,
+   "Nombre": "ProSkin Elástico",
+   "Talla": 3,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 488825,
+   "Nombre": "ProSkin Elástico",
+   "Talla": 4,
+   "Periodo": "Noche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 484410,
+   "Nombre": "ProSkin Elástico",
+   "Talla": 3,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 464891,
+   "Nombre": "ProSkin Elástico",
+   "Talla": 4,
+   "Periodo": "Supernoche",
+   "Tipo": "Elástico",
+   "Uds": 80
+  },
+  {
+   "Marca": "TENA",
+   "CN": 476176,
+   "Nombre": "Rectangular",
+   "Talla": 0,
+   "Periodo": "Dia",
+   "Tipo": "Rectangular",
+   "Uds": 80
+  }
+ ]
